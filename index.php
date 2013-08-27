@@ -8,6 +8,7 @@
 <?php
 include_once 'classes/class.database.php';
 
+echo 'Modified';
 
 ?>
     
